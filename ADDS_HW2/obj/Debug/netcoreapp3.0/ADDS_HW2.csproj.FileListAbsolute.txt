@@ -1,0 +1,11 @@
+/Users/vladimir/Projects/ADDS_HW2/bin/Debug/netcoreapp3.0/ADDS_HW2
+/Users/vladimir/Projects/ADDS_HW2/bin/Debug/netcoreapp3.0/ADDS_HW2.deps.json
+/Users/vladimir/Projects/ADDS_HW2/bin/Debug/netcoreapp3.0/ADDS_HW2.runtimeconfig.json
+/Users/vladimir/Projects/ADDS_HW2/bin/Debug/netcoreapp3.0/ADDS_HW2.runtimeconfig.dev.json
+/Users/vladimir/Projects/ADDS_HW2/bin/Debug/netcoreapp3.0/ADDS_HW2.dll
+/Users/vladimir/Projects/ADDS_HW2/bin/Debug/netcoreapp3.0/ADDS_HW2.pdb
+/Users/vladimir/Projects/ADDS_HW2/obj/Debug/netcoreapp3.0/ADDS_HW2.csprojAssemblyReference.cache
+/Users/vladimir/Projects/ADDS_HW2/obj/Debug/netcoreapp3.0/ADDS_HW2.AssemblyInfoInputs.cache
+/Users/vladimir/Projects/ADDS_HW2/obj/Debug/netcoreapp3.0/ADDS_HW2.AssemblyInfo.cs
+/Users/vladimir/Projects/ADDS_HW2/obj/Debug/netcoreapp3.0/ADDS_HW2.dll
+/Users/vladimir/Projects/ADDS_HW2/obj/Debug/netcoreapp3.0/ADDS_HW2.pdb
